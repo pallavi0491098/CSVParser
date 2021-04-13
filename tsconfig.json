@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "lib": [
+            "esnext",
+            "dom"
+        ],
+        "strict": false,
+        "module": "commonjs",
+        "outDir": "out",
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*.ts",
+        "test/**/*.ts"
+    ]
+}
